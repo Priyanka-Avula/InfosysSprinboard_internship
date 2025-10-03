@@ -171,4 +171,4 @@ By completing this project, you will:
 
 ---
 
-⭐ *If you like this project, don’t forget to star ⭐ the repo!*
+
